@@ -8,7 +8,7 @@ This analysis was completed to review PyBer ride data. Using a sample of ride da
 This project was completed to give PyBer executives more information about how their different customers experience their brand. The data shows some discrepancy between types of area, so I will show some improvements that could be made to create a strong experience in all areas.
 ## Results
 The analysis of the sample data provided lead to the numbers provided below. I’ll discuss the results in each section below.
-![PyberSummaryDF](github link)
+![PyberSummaryDF](https://github.com/DeliaDavila/PyBer_Analysis/blob/main/Images/PyberSummaryDF.png)
 
 
 ### Total Rides
@@ -28,7 +28,7 @@ Drivers in urban areas made significantly less than drivers in rural or suburban
 ### Comparison of Total Fare by City Type
 In the chart below (also provided as a standalone figure), the total fares for a sample period are shown. This shows the much larger PyBer fare total for Urban areas. Suburban areas had a significant amount as well, but Rural areas have a significantly smaller overall PyBer presence. 
 
-![PyBer_fare_summary](github link)
+![PyBer_fare_summary](https://github.com/DeliaDavila/PyBer_Analysis/blob/main/Images/PyBer_fare_summary.png)
 
 
 ## Summary
